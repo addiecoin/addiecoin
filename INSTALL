@@ -1,0 +1,9 @@
+Building AddieCoin
+
+See doc/readme-qt.rst for instructions on building addiecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AddieCoin.
+
+See doc/build-*.txt for instructions on building addiecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of AddieCoin.

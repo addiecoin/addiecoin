@@ -1,0 +1,2 @@
+AddieCoin
+(ADC)
